@@ -11,7 +11,7 @@
             "id": "dd7037126639dd92",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -87,7 +87,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,5 +139,10 @@
     }
   },
   "active": "dd7037126639dd92",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Entertainment/Книги.md",
+    "Entertainment/Фильмы, Сериалы.md",
+    "Без названия.canvas",
+    "Entertainment"
+  ]
 }
