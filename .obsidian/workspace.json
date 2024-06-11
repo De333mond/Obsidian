@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c568ebbd6122485",
+        "id": "f81af5a5279f3e30",
         "type": "tabs",
         "children": [
           {
-            "id": "05eca903cfa97c06",
+            "id": "baefa4107bf7bde3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Обучение нейронных сетей с учителем..md",
+                "file": "Polykek/Cheats/TOI (6 semester)/12. Классификация, задачи, выбор структуры искусственных нейронных сетей.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "if",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 457.5
   },
   "right": {
     "id": "81199a2eb29e943c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. Обучение нейронных сетей с учителем..md",
+                "file": "Polykek/Cheats/TOI (6 semester)/12. Классификация, задачи, выбор структуры искусственных нейронных сетей.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. Обучение нейронных сетей с учителем..md",
+                "file": "Polykek/Cheats/TOI (6 semester)/12. Классификация, задачи, выбор структуры искусственных нейронных сетей.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. Обучение нейронных сетей с учителем..md"
+                "file": "Polykek/Cheats/TOI (6 semester)/12. Классификация, задачи, выбор структуры искусственных нейронных сетей.md"
               }
             }
           },
           {
-            "id": "906f977367ba7e0f",
+            "id": "5ac10ff812a43dff",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,21 +157,26 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "05eca903cfa97c06",
+  "active": "73b31c2b7faea8e9",
   "lastOpenFiles": [
-    "Pasted image 20240611083601.png",
-    "Pasted image 20240611083533.png",
-    "Pasted image 20240611083512.png",
-    "Pasted image 20240611083449.png",
-    "Pasted image 20240611083409.png",
-    "Pasted image 20240611083343.png",
-    "Pasted image 20240611083342.png",
-    "Pasted image 20240611083332.png",
-    "Pasted image 20240611083323.png",
-    "Pasted image 20240611083315.png",
-    "Pasted image 20240611083255.png",
+    "Polykek/Cheats/TOI (6 semester)/2. Сжатие данных. Арифметическое и Групповое кодирование..md",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611095710.png",
     "Polykek/Cheats/TOI (6 semester)/0. General.md",
-    "13. Обучение нейронных сетей с учителем..md",
+    "Polykek/Cheats/TOI (6 semester)/18. Технология создания и обработки фрактальных изображений.md",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611100538.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611100438.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611100131.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611095734.png",
+    "Polykek/Cheats/TOI (6 semester)/17. Сравнение парсинга XML файлов с использованием технологии XSL преобразований и использования API DOM в PHP.md",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611053833.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611093001.png",
+    "Polykek/Cheats/TOI (6 semester)/16. XSL преобразования.md",
+    "Polykek/Cheats/TOI (6 semester)/15. Язык XSL. Его использование и спецификация.md",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611093046.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611091919.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611091501.png",
+    "Polykek/Cheats/TOI (6 semester)/14. Обучение нейронных сетей без учителя.md",
+    "Polykek/Cheats/TOI (6 semester)/13. Обучение нейронных сетей с учителем..md",
     "Polykek/Cheats/TOI (6 semester)/12. Классификация, задачи, выбор структуры искусственных нейронных сетей.md",
     "Polykek/Cheats/TOI (6 semester)/11. Нейронные сети. Основные понятия..md",
     "Polykek/Cheats/TOI (6 semester)/6. Алгоритм отжига.md",
@@ -180,7 +187,6 @@
     "Polykek/Cheats/TOI (6 semester)/5. Муравьиный алгоритм.md",
     "Polykek/Cheats/TOI (6 semester)/4. Алгоритмическая обработка информации в системах искусственного интеллекта.md",
     "Polykek/Cheats/TOI (6 semester)/3. Сжатие данных. Код Хаффмана..md",
-    "Polykek/Cheats/TOI (6 semester)/2. Сжатие данных. Арифметическое и Групповое кодирование..md",
     "Polykek/Cheats/TOI (6 semester)/1. Понятие информации и ее количественная оценка.md",
     "Entertainment/Detailed/Кей и Пил (2012).md",
     "Polykek/Cheats/TOI (6 semester)/images",
