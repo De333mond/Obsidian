@@ -11,20 +11,27 @@
       "query": "tag:#Entertainment  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 10443990
+      }
+    },
+    {
+      "query": "tag:#Polykek/cheats  ",
+      "color": {
+        "a": 1,
+        "rgb": 12713984
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.04427083333333,
+  "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.6261736821793755,
+  "scale": 1.159909785460936,
   "close": false
 }
