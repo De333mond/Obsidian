@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polykek/Cheats/TOI (6 semester)/General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cca1b813b5b001b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polykek/Cheats/TOI (6 semester)/Понятие информации и ее количественная оценка.md",
+                "file": "Polykek/Cheats/TOI (6 semester)/0. General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polykek/Cheats/TOI (6 semester)/Понятие информации и ее количественная оценка.md",
+                "file": "Polykek/Cheats/TOI (6 semester)/0. General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polykek/Cheats/TOI (6 semester)/Понятие информации и ее количественная оценка.md",
+                "file": "Polykek/Cheats/TOI (6 semester)/0. General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polykek/Cheats/TOI (6 semester)/Понятие информации и ее количественная оценка.md"
+                "file": "Polykek/Cheats/TOI (6 semester)/0. General.md"
               }
             }
           },
@@ -169,18 +155,19 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cca1b813b5b001b2",
+  "active": "05eca903cfa97c06",
   "lastOpenFiles": [
-    "Pasted image 20240611060658.png",
-    "Pasted image 20240611060615.png",
-    "Pasted image 20240611060552.png",
-    "Pasted image 20240611060329.png",
-    "Pasted image 20240611060206.png",
-    "Polykek/Cheats/TOI (6 semester)/General.md",
     "Polykek/Cheats/TOI (6 semester)/Понятие информации и ее количественная оценка.md",
-    "Polykek/Cheats/TOI (6 semester)",
+    "Polykek/Cheats/TOI (6 semester)/0. General.md",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611053833.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611060658.png",
+    "Polykek/Cheats/TOI (6 semester)/images",
     "Без названия.canvas",
-    "Pasted image 20240611053833.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611060615.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611060552.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611060329.png",
+    "Polykek/Cheats/TOI (6 semester)/images/Pasted image 20240611060206.png",
+    "Polykek/Cheats/TOI (6 semester)",
     "Entertainment/Фильмы, Сериалы.md",
     "Polykek/Cheats",
     "Polykek",
